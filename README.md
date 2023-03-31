@@ -7,7 +7,7 @@
 ### Installation
 
 1. Clone the repository: `git clone https://github.com/jsbenin/house-hunter-landing-page.git`
-2. Navigate into the project directory: `cd my-vite-app`
+2. Navigate into the project directory: `cd house-hunter-landing-page`
 3. Install dependencies: `npm install`
 
 ### Usage
